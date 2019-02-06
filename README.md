@@ -17,7 +17,6 @@ main.tf	| Terraform configuration file.
 - Create Terraform Enterprice(TFE) [account](https://www.hashicorp.com/resources/getting-started-with-terraform-enterprise#step-1-create-a-terraform-enterprise-account).
 - Next create an [organization](https://www.hashicorp.com/resources/getting-started-with-terraform-enterprise#step-2-create-and-manage-an-organization).
 - Next integrate your TFE with version control system (in this case GitHub) following this [instructions](https://www.hashicorp.com/resources/getting-started-with-terraform-enterprise#step-4-create-a-workspace).
-- Next generate TFE token from User Settings -> Token -> Generate Token.
 - Next create a work space in TFE following this [instructions](https://www.hashicorp.com/resources/getting-started-with-terraform-enterprise#step-4-create-a-workspace).
 - Next link your workspace with this repository by choosing GitHub as source and the repository name underneath it. 
 - Next click on the workspacr you just created and click on Queue Plan:  
