@@ -4,7 +4,7 @@
 - This repository is used as remote state for another repository. 
 
 ### This project consist of 2 phases:
- - This respository tfe_random_pet is phase 1 of the project.
+ - This [respository](https://github.com/nikcbg/tfe_null_remote_pet) tfe_random_pet is phase 1 of the project.
  - This [repository](https://github.com/nikcbg/tfe_null_remote_pet) tfe_null_remote_pet is phase 2 of the project.
 
 ### List of the files in the repository
