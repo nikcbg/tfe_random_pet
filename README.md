@@ -2,17 +2,17 @@
 
 ### Purpose of the repository
 - This repository is used as remote state for another repository. 
-------------------------------------------------------------------------------------------------------------------
+
 ### This project consist of 2 phases:
  - This respository tfe_random_pet is phase 1 of the project.
  - This [repository](https://github.com/nikcbg/tfe_null_remote_pet) tfe_null_remote_pet is phase 2 of the project.
------------------------------------------------------------------------------------------------------------------
+
 ### List of the files in the repository
 File name |	File description
 ----------|--------------------
 .gitignore | list of files and directories to ignore.
 main.tf	| Terraform configuration file.
--------------------------------------------------------------------------------------------------------------------
+
 ### How to use this repository 
 - Create Terraform Enterprice(TFE) [account](https://www.hashicorp.com/resources/getting-started-with-terraform-enterprise#step-1-create-a-terraform-enterprise-account).
 - Next create an [organization](https://www.hashicorp.com/resources/getting-started-with-terraform-enterprise#step-2-create-and-manage-an-organization).
@@ -48,6 +48,6 @@ main.tf	| Terraform configuration file.
 
   name = formerly-commonly-curious-oriole
  ```
- -----------------------------------------------------------------------------------------------------------------
+ 
 ### To Do:
 - Go to [this](https://github.com/nikcbg/tfe_null_remote_pet) reopository for phase 2 of the project.
