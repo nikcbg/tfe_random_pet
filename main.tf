@@ -5,4 +5,3 @@ resource "random_pet" "example" {
 output "name" {
   value = "${random_pet.example.id}"
 }
-
