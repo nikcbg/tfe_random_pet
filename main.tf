@@ -3,5 +3,6 @@ resource "random_pet" "example" {
 }
 
 output "name" {
+  sensitive = true
   value = "${random_pet.example.id}"
 }
