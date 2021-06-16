@@ -1,4 +1,4 @@
-resource "random_pets" "example" {
+resource "random_pet" "example" {
   length    = "6"
 }
 
